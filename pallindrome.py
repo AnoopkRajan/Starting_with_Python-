@@ -1,7 +1,7 @@
 a=list() 
 for x in range(12):
 	n=input("Enter a string : ")
-	#this adds 12 strings to the list a
+	#this adds 12 strings to the list a//string
 	a.append(str(n))
 b=""#declaring an empty string to concatenate 3 at a time
 for y in range(12):
